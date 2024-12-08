@@ -1,1 +1,1 @@
-##Problem Solving using Typescript.
+Problem Solving using Typescript.
